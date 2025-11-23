@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I’m Kaylyn
 
-<!--
-**kaynicstudios25/kaynicstudios25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Who I Am**
+Multidisciplinary artist–developer blending craft, design, and technology.  
+I work across UX/UI, full-stack web & app development, and emerging 3D/game design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🌱 What I’m Working On**
+- UX/UI + graphic design refinement  
+- Full-stack projects (web + mobile)  
+- 3D modeling & beginner game development  
+- Building my personal design–code ecosystem
+
+---
+
+### **🛠️ Tools & Tech**
+
+**Design:** Figma • Affinity • Procreate  
+**Dev Tools:** VS Code • Git/GitHub • Postman • Firebase • Expo/React Native  
+**Frontend:** HTML • CSS • JS • React • React Native • TailwindCSS • Three.js (beginner)  
+**Backend:** Node.js • Express • Firebase • Convex • Appwrite • learning SQL & MongoDB  
+**Other:** Python basics • Blender • Nomad Sculpt • Godot (beginner)
+
+---
+
+### **📫 Reach Me**
+**Email:** kay.nicolestudios@gmail.com  
+**Portfolio:** coming soon
