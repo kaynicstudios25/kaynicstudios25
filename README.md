@@ -18,12 +18,11 @@ I work across UX/UI, full-stack web & app development, and emerging 3D/game desi
 
 **Design:** Figma • Affinity • Procreate  
 **Dev Tools:** VS Code • Git/GitHub • Postman • Firebase • Expo/React Native  
-**Frontend:** HTML • CSS • JS • React • React Native • TailwindCSS • Three.js (beginner)  
-**Backend:** Node.js • Express • Firebase • Convex • Appwrite • learning SQL & MongoDB  
-**Other:** Python basics • Blender • Nomad Sculpt • Godot (beginner)
+**Frontend:** HTML • CSS • JS • React • React Native • Chrome Extension API TailwindCSS  
+**Backend:** Node.js • Express.js • MongoDB • RESTful APIs • Google OAuth • Stripe API 
 
 ---
 
 ### **📫 Reach Me**
-**Email:** kay.nicolestudios@gmail.com  
+**Email:** kngroom@uab.edu 
 **Portfolio:** coming soon
