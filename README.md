@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Kaylyn (Nic)
+# 👋 Hey, I’m Kaylyn
 
 ### **Who I Am**
 Multidisciplinary artist–developer blending craft, design, and technology.  
