@@ -2,27 +2,31 @@
 
 ### **Who I Am**
 Multidisciplinary artist–developer blending craft, design, and technology.  
-I work across UX/UI, full-stack web & app development, and emerging 3D/game design.
 
 ---
 
 ### **🌱 What I’m Working On**
-- UX/UI + graphic design refinement  
-- Full-stack projects (web + mobile)  
-- 👷🏾‍♀️ 3D modeling & beginner game development  
-- Building my personal design–code ecosystem
+I am rebuilding my comprehension of FullStack Development using resources such as:
+> - `freeCodeCamp`
+> - `Scrimba`
+> - `Code Academy`
+
+My end goal is to have a more matured understanding in various tech stacks. To be able to successfully launch my solo tech startup.
 
 ---
 
-### **🛠️ Tools & Tech**
+### **🛠️ SKILLS**
 
-**Design:** Figma • Affinity • Procreate  
-**Dev Tools:** VS Code • Git/GitHub • Postman • Firebase • Expo/React Native  
-**Frontend:** HTML • CSS • JS • React • React Native • Chrome Extension API • TailwindCSS  
-**Backend:** Node.js • Express.js • MongoDB • RESTful APIs • Google OAuth • Stripe API 
+#### DESIGN
+`UX/UI` `Brand Design`
+#### FULLSTACK
+`HTML, CSS, JS` `React / React Native` `BaaS`
+#### CYBERSECURITY ENGINEERING
+`Node.js` `Express.Js` `VM` `Pen Testing` `ArcJet`
 
 ---
 
 ### **📫 Reach Me**
 **Email:** [kngroom@uab.edu] 
-**Portfolio:** [(https://dinq.me/oh_hey_nic)]
+
+**Portfolio:** 🍿 Coming Soon!
