@@ -17,12 +17,11 @@ My end goal is to have a more matured understanding in various tech stacks. To b
 
 ### **🛠️ SKILLS**
 
-#### DESIGN
-`UX/UI` `Brand Design`
-#### FULLSTACK
-`HTML, CSS, JS` `React / React Native` `BaaS`
-#### CYBERSECURITY ENGINEERING
-`Node.js` `Express.Js` `VM` `Pen Testing` `ArcJet`
+**DESIGN** -`UX/UI` `Brand Design`
+
+**FULLSTACK** - `HTML, CSS, JS` `React / React Native` `BaaS`
+
+**CYBERSECURITY ENGINEERING** - `Node.js` `Express.Js` `VM` `Pen Testing` `ArcJet`
 
 ---
 
